@@ -75,14 +75,14 @@
     },
     {
       "chainId": 101,
-      "address": "8CWgMvZe7ntNLbky4T3JhSgtCYzeorgRiUY8xfXZztXx",
+      "address": "FmzRUwjxDwTJfvj48SLqmTnyhanswepzQCC6ocFfBAkw",
       "symbol": "IOTC",
       "name": "IoTcoin",
       "decimals": 3,
       "logoURI": "https://cdn.jsdelivr.net/gh/IoT-Worlds/IoT-Worlds/logo.jpg",
       "tags": [
         "IoT Coin",
-        "Together to Neptune and Beyond"
+        "Stronger Together for Peace"
       ],
       "extensions": {
         "website": "https://www.iotworlds.com",
